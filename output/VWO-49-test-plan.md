@@ -1,6 +1,6 @@
 # Test Plan — VWO-49: [VWO] Add Passkey and SSO Login Options to VWO Login Page
 
-![Company logo](../misc/company.png)
+![Company logo](../misc/company.webp)
 
 **Company context:** The supplied company profile describes VWO as a Wingify product focused on website A/B testing.  
 **Status:** **DRAFT — pending human review.** This plan is not approved until a QA owner signs off.
